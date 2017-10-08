@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: 3315c83de9e5f0e488fc2cd4515e6e0f
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f02000030020000310200003202000033020000340200003502000036020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 67b3b466cabf2cabd45f770e70298621
+  longitude: -0.12462775954835648
+  latitude: 51.499364877918104
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -5.419985, y: 2.406208, z: -24.26224}
+      lookAt: {x: 17.072794, y: 2.406208, z: 6.770144}
+      up: {x: 0, y: 1, z: 0}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -5.419985, y: 2.406208, z: -24.26224}
+        lookAt: {x: 16.978832, y: 5.905804, z: 6.6405077}
+        up: {x: -0.05358692, y: 0.99582255, z: -0.07393172}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: -5.419985, y: 2.406208, z: -24.26224}
+        lookAt: {x: 17.072794, y: 2.406208, z: 6.770144}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: 1.8434212, y: 1.9037472, z: -13.619984}
+        lookAt: {x: 16.900482, y: 0.72936064, z: -2.3520474}
+        up: {x: 0.049899228, y: 0.99805593, z: 0.037342038}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: -5.419985, y: 2.406208, z: -24.26224}
+        lookAt: {x: 17.072794, y: 2.406208, z: 6.770144}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: -5.419985, y: 2.406208, z: -24.26224}
+        lookAt: {x: 17.072794, y: 2.406208, z: 6.770144}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Complete Door Left (frm outside)
+    100002: Complete Door Left (frm outside) 1
+    100004: Complete Door Left (frm outside) 10
+    100006: Complete Door Left (frm outside) 11
+    100008: Complete Door Left (frm outside) 12
+    100010: Complete Door Left (frm outside) 13
+    100012: Complete Door Left (frm outside) 14
+    100014: Complete Door Left (frm outside) 15
+    100016: Complete Door Left (frm outside) 16
+    100018: Complete Door Left (frm outside) 17
+    100020: Complete Door Left (frm outside) 18
+    100022: Complete Door Left (frm outside) 19
+    100024: Complete Door Left (frm outside) 2
+    100026: Complete Door Left (frm outside) 20
+    100028: Complete Door Left (frm outside) 21
+    100030: Complete Door Left (frm outside) 22
+    100032: Complete Door Left (frm outside) 23
+    100034: Complete Door Left (frm outside) 24
+    100036: Complete Door Left (frm outside) 25
+    100038: Complete Door Left (frm outside) 26
+    100040: Complete Door Left (frm outside) 3
+    100042: Complete Door Left (frm outside) 4
+    100044: Complete Door Left (frm outside) 5
+    100046: Complete Door Left (frm outside) 6
+    100048: Complete Door Left (frm outside) 7
+    100050: Complete Door Left (frm outside) 8
+    100052: Complete Door Left (frm outside) 9
+    100054: Decorative panel door with door knob
+    100056: Door
+    100058: Door Handle
+    100060: Door Handle 1
+    100062: Door Handle 2
+    100064: Door Handle 3
+    100066: Door Handle 4
+    100068: Door Handle 5
+    100070: Door Handle 6
+    100072: Door Handle 7
+    100074: Door Handle 8
+    100076: Door Handle#1
+    100078: Door Handle#1 1
+    100080: Door Handle#1 10
+    100082: Door Handle#1 11
+    100084: Door Handle#1 12
+    100086: Door Handle#1 13
+    100088: Door Handle#1 14
+    100090: Door Handle#1 15
+    100092: Door Handle#1 16
+    100094: Door Handle#1 17
+    100096: Door Handle#1 2
+    100098: Door Handle#1 3
+    100100: Door Handle#1 4
+    100102: Door Handle#1 5
+    100104: Door Handle#1 6
+    100106: Door Handle#1 7
+    100108: Door Handle#1 8
+    100110: Door Handle#1 9
+    100112: Door Inside#1
+    100114: Door Inside#1 1
+    100116: Door Inside#1 10
+    100118: Door Inside#1 11
+    100120: Door Inside#1 12
+    100122: Door Inside#1 13
+    100124: Door Inside#1 14
+    100126: Door Inside#1 15
+    100128: Door Inside#1 16
+    100130: Door Inside#1 17
+    100132: Door Inside#1 18
+    100134: Door Inside#1 19
+    100136: Door Inside#1 2
+    100138: Door Inside#1 20
+    100140: Door Inside#1 21
+    100142: Door Inside#1 22
+    100144: Door Inside#1 23
+    100146: Door Inside#1 24
+    100148: Door Inside#1 25
+    100150: Door Inside#1 26
+    100152: Door Inside#1 3
+    100154: Door Inside#1 4
+    100156: Door Inside#1 5
+    100158: Door Inside#1 6
+    100160: Door Inside#1 7
+    100162: Door Inside#1 8
+    100164: Door Inside#1 9
+    100166: door2.dxf
+    100168: Group 102
+    100170: Group 104
+    100172: Group 11
+    100174: Group 124
+    100176: Group 13
+    100178: Group 133
+    100180: Group 135
+    100182: Group 154
+    100184: Group 156
+    100186: Group 163
+    100188: Group 165
+    100190: Group 185
+    100192: Group 194
+    100194: Group 196
+    100196: Group 2
+    100198: Group 215
+    100200: Group 217
+    100202: Group 224
+    100204: Group 226
+    100206: Group 246
+    100208: Group 255
+    100210: Group 257
+    100212: Group 276
+    100214: Group 278
+    100216: Group 285
+    100218: Group 287
+    100220: Group 307
+    100222: Group 316
+    100224: Group 318
+    100226: Group 32
+    100228: Group 337
+    100230: Group 339
+    100232: Group 34
+    100234: Group 346
+    100236: Group 348
+    100238: Group 368
+    100240: Group 377
+    100242: Group 379
+    100244: Group 398
+    100246: Group 400
+    100248: Group 407
+    100250: Group 409
+    100252: Group 41
+    100254: Group 429
+    100256: Group 43
+    100258: Group 438
+    100260: Group 440
+    100262: Group 459
+    100264: Group 461
+    100266: Group 468
+    100268: Group 470
+    100270: Group 490
+    100272: Group 499
+    100274: Group 501
+    100276: Group 520
+    100278: Group 522
+    100280: Group 529
+    100282: Group 531
+    100284: Group 555
+    100286: Group 557
+    100288: Group 63
+    100290: Group 72
+    100292: Group 74
+    100294: Group 93
+    100296: Group 95
+    100298: Inside Door Frame#1
+    100300: Inside Door Frame#1 1
+    100302: Inside Door Frame#1 10
+    100304: Inside Door Frame#1 11
+    100306: Inside Door Frame#1 12
+    100308: Inside Door Frame#1 13
+    100310: Inside Door Frame#1 14
+    100312: Inside Door Frame#1 15
+    100314: Inside Door Frame#1 16
+    100316: Inside Door Frame#1 17
+    100318: Inside Door Frame#1 2
+    100320: Inside Door Frame#1 3
+    100322: Inside Door Frame#1 4
+    100324: Inside Door Frame#1 5
+    100326: Inside Door Frame#1 6
+    100328: Inside Door Frame#1 7
+    100330: Inside Door Frame#1 8
+    100332: Inside Door Frame#1 9
+    100334: kixx27
+    100336: kixx27 1
+    100338: Left Door Hinge
+    100340: Left Door Hinge 1
+    100342: Left Door Hinge 10
+    100344: Left Door Hinge 11
+    100346: Left Door Hinge 12
+    100348: Left Door Hinge 13
+    100350: Left Door Hinge 14
+    100352: Left Door Hinge 15
+    100354: Left Door Hinge 16
+    100356: Left Door Hinge 17
+    100358: Left Door Hinge 18
+    100360: Left Door Hinge 19
+    100362: Left Door Hinge 2
+    100364: Left Door Hinge 20
+    100366: Left Door Hinge 21
+    100368: Left Door Hinge 22
+    100370: Left Door Hinge 23
+    100372: Left Door Hinge 24
+    100374: Left Door Hinge 25
+    100376: Left Door Hinge 26
+    100378: Left Door Hinge 27
+    100380: Left Door Hinge 28
+    100382: Left Door Hinge 29
+    100384: Left Door Hinge 3
+    100386: Left Door Hinge 30
+    100388: Left Door Hinge 31
+    100390: Left Door Hinge 32
+    100392: Left Door Hinge 33
+    100394: Left Door Hinge 34
+    100396: Left Door Hinge 35
+    100398: Left Door Hinge 4
+    100400: Left Door Hinge 5
+    100402: Left Door Hinge 6
+    100404: Left Door Hinge 7
+    100406: Left Door Hinge 8
+    100408: Left Door Hinge 9
+    100410: //RootNode
+    100412: Mullions#1
+    100414: Mullions#1 1
+    100416: Mullions#1 10
+    100418: Mullions#1 11
+    100420: Mullions#1 12
+    100422: Mullions#1 13
+    100424: Mullions#1 14
+    100426: Mullions#1 15
+    100428: Mullions#1 16
+    100430: Mullions#1 17
+    100432: Mullions#1 18
+    100434: Mullions#1 19
+    100436: Mullions#1 2
+    100438: Mullions#1 20
+    100440: Mullions#1 21
+    100442: Mullions#1 22
+    100444: Mullions#1 23
+    100446: Mullions#1 24
+    100448: Mullions#1 25
+    100450: Mullions#1 26
+    100452: Mullions#1 3
+    100454: Mullions#1 4
+    100456: Mullions#1 5
+    100458: Mullions#1 6
+    100460: Mullions#1 7
+    100462: Mullions#1 8
+    100464: Mullions#1 9
+    100466: Outside Door Half
+    100468: Outside Door Half 1
+    100470: Outside Door Half 10
+    100472: Outside Door Half 11
+    100474: Outside Door Half 12
+    100476: Outside Door Half 13
+    100478: Outside Door Half 14
+    100480: Outside Door Half 15
+    100482: Outside Door Half 16
+    100484: Outside Door Half 17
+    100486: Outside Door Half 18
+    100488: Outside Door Half 19
+    100490: Outside Door Half 2
+    100492: Outside Door Half 20
+    100494: Outside Door Half 21
+    100496: Outside Door Half 22
+    100498: Outside Door Half 23
+    100500: Outside Door Half 24
+    100502: Outside Door Half 25
+    100504: Outside Door Half 26
+    100506: Outside Door Half 3
+    100508: Outside Door Half 4
+    100510: Outside Door Half 5
+    100512: Outside Door Half 6
+    100514: Outside Door Half 7
+    100516: Outside Door Half 8
+    100518: Outside Door Half 9
+    100520: powder coated sliding glass window
+    100522: powder coated sliding glass window 1
+    100524: Right Door Hinge
+    100526: Right Door Hinge 1
+    100528: Right Door Hinge 10
+    100530: Right Door Hinge 11
+    100532: Right Door Hinge 12
+    100534: Right Door Hinge 13
+    100536: Right Door Hinge 14
+    100538: Right Door Hinge 15
+    100540: Right Door Hinge 16
+    100542: Right Door Hinge 17
+    100544: Right Door Hinge 18
+    100546: Right Door Hinge 19
+    100548: Right Door Hinge 2
+    100550: Right Door Hinge 20
+    100552: Right Door Hinge 21
+    100554: Right Door Hinge 22
+    100556: Right Door Hinge 23
+    100558: Right Door Hinge 24
+    100560: Right Door Hinge 25
+    100562: Right Door Hinge 26
+    100564: Right Door Hinge 3
+    100566: Right Door Hinge 4
+    100568: Right Door Hinge 5
+    100570: Right Door Hinge 6
+    100572: Right Door Hinge 7
+    100574: Right Door Hinge 8
+    100576: Right Door Hinge 9
+    100578: Right door hinges 3
+    100580: Right door hinges 3 1
+    100582: Right door hinges 3 2
+    100584: Right door hinges 3 3
+    100586: Right door hinges 3 4
+    100588: Right door hinges 3 5
+    100590: Right door hinges 3 6
+    100592: Right door hinges 3 7
+    100594: Right door hinges 3 8
+    100596: Right door with overlap#1
+    100598: Right door with overlap#1 1
+    100600: Right door with overlap#1 2
+    100602: Right door with overlap#1 3
+    100604: Right door with overlap#1 4
+    100606: Right door with overlap#1 5
+    100608: Right door with overlap#1 6
+    100610: Right door with overlap#1 7
+    100612: Right door with overlap#1 8
+    400000: Complete Door Left (frm outside)
+    400002: Complete Door Left (frm outside) 1
+    400004: Complete Door Left (frm outside) 10
+    400006: Complete Door Left (frm outside) 11
+    400008: Complete Door Left (frm outside) 12
+    400010: Complete Door Left (frm outside) 13
+    400012: Complete Door Left (frm outside) 14
+    400014: Complete Door Left (frm outside) 15
+    400016: Complete Door Left (frm outside) 16
+    400018: Complete Door Left (frm outside) 17
+    400020: Complete Door Left (frm outside) 18
+    400022: Complete Door Left (frm outside) 19
+    400024: Complete Door Left (frm outside) 2
+    400026: Complete Door Left (frm outside) 20
+    400028: Complete Door Left (frm outside) 21
+    400030: Complete Door Left (frm outside) 22
+    400032: Complete Door Left (frm outside) 23
+    400034: Complete Door Left (frm outside) 24
+    400036: Complete Door Left (frm outside) 25
+    400038: Complete Door Left (frm outside) 26
+    400040: Complete Door Left (frm outside) 3
+    400042: Complete Door Left (frm outside) 4
+    400044: Complete Door Left (frm outside) 5
+    400046: Complete Door Left (frm outside) 6
+    400048: Complete Door Left (frm outside) 7
+    400050: Complete Door Left (frm outside) 8
+    400052: Complete Door Left (frm outside) 9
+    400054: Decorative panel door with door knob
+    400056: Door
+    400058: Door Handle
+    400060: Door Handle 1
+    400062: Door Handle 2
+    400064: Door Handle 3
+    400066: Door Handle 4
+    400068: Door Handle 5
+    400070: Door Handle 6
+    400072: Door Handle 7
+    400074: Door Handle 8
+    400076: Door Handle#1
+    400078: Door Handle#1 1
+    400080: Door Handle#1 10
+    400082: Door Handle#1 11
+    400084: Door Handle#1 12
+    400086: Door Handle#1 13
+    400088: Door Handle#1 14
+    400090: Door Handle#1 15
+    400092: Door Handle#1 16
+    400094: Door Handle#1 17
+    400096: Door Handle#1 2
+    400098: Door Handle#1 3
+    400100: Door Handle#1 4
+    400102: Door Handle#1 5
+    400104: Door Handle#1 6
+    400106: Door Handle#1 7
+    400108: Door Handle#1 8
+    400110: Door Handle#1 9
+    400112: Door Inside#1
+    400114: Door Inside#1 1
+    400116: Door Inside#1 10
+    400118: Door Inside#1 11
+    400120: Door Inside#1 12
+    400122: Door Inside#1 13
+    400124: Door Inside#1 14
+    400126: Door Inside#1 15
+    400128: Door Inside#1 16
+    400130: Door Inside#1 17
+    400132: Door Inside#1 18
+    400134: Door Inside#1 19
+    400136: Door Inside#1 2
+    400138: Door Inside#1 20
+    400140: Door Inside#1 21
+    400142: Door Inside#1 22
+    400144: Door Inside#1 23
+    400146: Door Inside#1 24
+    400148: Door Inside#1 25
+    400150: Door Inside#1 26
+    400152: Door Inside#1 3
+    400154: Door Inside#1 4
+    400156: Door Inside#1 5
+    400158: Door Inside#1 6
+    400160: Door Inside#1 7
+    400162: Door Inside#1 8
+    400164: Door Inside#1 9
+    400166: door2.dxf
+    400168: Group 102
+    400170: Group 104
+    400172: Group 11
+    400174: Group 124
+    400176: Group 13
+    400178: Group 133
+    400180: Group 135
+    400182: Group 154
+    400184: Group 156
+    400186: Group 163
+    400188: Group 165
+    400190: Group 185
+    400192: Group 194
+    400194: Group 196
+    400196: Group 2
+    400198: Group 215
+    400200: Group 217
+    400202: Group 224
+    400204: Group 226
+    400206: Group 246
+    400208: Group 255
+    400210: Group 257
+    400212: Group 276
+    400214: Group 278
+    400216: Group 285
+    400218: Group 287
+    400220: Group 307
+    400222: Group 316
+    400224: Group 318
+    400226: Group 32
+    400228: Group 337
+    400230: Group 339
+    400232: Group 34
+    400234: Group 346
+    400236: Group 348
+    400238: Group 368
+    400240: Group 377
+    400242: Group 379
+    400244: Group 398
+    400246: Group 400
+    400248: Group 407
+    400250: Group 409
+    400252: Group 41
+    400254: Group 429
+    400256: Group 43
+    400258: Group 438
+    400260: Group 440
+    400262: Group 459
+    400264: Group 461
+    400266: Group 468
+    400268: Group 470
+    400270: Group 490
+    400272: Group 499
+    400274: Group 501
+    400276: Group 520
+    400278: Group 522
+    400280: Group 529
+    400282: Group 531
+    400284: Group 555
+    400286: Group 557
+    400288: Group 63
+    400290: Group 72
+    400292: Group 74
+    400294: Group 93
+    400296: Group 95
+    400298: Inside Door Frame#1
+    400300: Inside Door Frame#1 1
+    400302: Inside Door Frame#1 10
+    400304: Inside Door Frame#1 11
+    400306: Inside Door Frame#1 12
+    400308: Inside Door Frame#1 13
+    400310: Inside Door Frame#1 14
+    400312: Inside Door Frame#1 15
+    400314: Inside Door Frame#1 16
+    400316: Inside Door Frame#1 17
+    400318: Inside Door Frame#1 2
+    400320: Inside Door Frame#1 3
+    400322: Inside Door Frame#1 4
+    400324: Inside Door Frame#1 5
+    400326: Inside Door Frame#1 6
+    400328: Inside Door Frame#1 7
+    400330: Inside Door Frame#1 8
+    400332: Inside Door Frame#1 9
+    400334: kixx27
+    400336: kixx27 1
+    400338: Left Door Hinge
+    400340: Left Door Hinge 1
+    400342: Left Door Hinge 10
+    400344: Left Door Hinge 11
+    400346: Left Door Hinge 12
+    400348: Left Door Hinge 13
+    400350: Left Door Hinge 14
+    400352: Left Door Hinge 15
+    400354: Left Door Hinge 16
+    400356: Left Door Hinge 17
+    400358: Left Door Hinge 18
+    400360: Left Door Hinge 19
+    400362: Left Door Hinge 2
+    400364: Left Door Hinge 20
+    400366: Left Door Hinge 21
+    400368: Left Door Hinge 22
+    400370: Left Door Hinge 23
+    400372: Left Door Hinge 24
+    400374: Left Door Hinge 25
+    400376: Left Door Hinge 26
+    400378: Left Door Hinge 27
+    400380: Left Door Hinge 28
+    400382: Left Door Hinge 29
+    400384: Left Door Hinge 3
+    400386: Left Door Hinge 30
+    400388: Left Door Hinge 31
+    400390: Left Door Hinge 32
+    400392: Left Door Hinge 33
+    400394: Left Door Hinge 34
+    400396: Left Door Hinge 35
+    400398: Left Door Hinge 4
+    400400: Left Door Hinge 5
+    400402: Left Door Hinge 6
+    400404: Left Door Hinge 7
+    400406: Left Door Hinge 8
+    400408: Left Door Hinge 9
+    400410: //RootNode
+    400412: Mullions#1
+    400414: Mullions#1 1
+    400416: Mullions#1 10
+    400418: Mullions#1 11
+    400420: Mullions#1 12
+    400422: Mullions#1 13
+    400424: Mullions#1 14
+    400426: Mullions#1 15
+    400428: Mullions#1 16
+    400430: Mullions#1 17
+    400432: Mullions#1 18
+    400434: Mullions#1 19
+    400436: Mullions#1 2
+    400438: Mullions#1 20
+    400440: Mullions#1 21
+    400442: Mullions#1 22
+    400444: Mullions#1 23
+    400446: Mullions#1 24
+    400448: Mullions#1 25
+    400450: Mullions#1 26
+    400452: Mullions#1 3
+    400454: Mullions#1 4
+    400456: Mullions#1 5
+    400458: Mullions#1 6
+    400460: Mullions#1 7
+    400462: Mullions#1 8
+    400464: Mullions#1 9
+    400466: Outside Door Half
+    400468: Outside Door Half 1
+    400470: Outside Door Half 10
+    400472: Outside Door Half 11
+    400474: Outside Door Half 12
+    400476: Outside Door Half 13
+    400478: Outside Door Half 14
+    400480: Outside Door Half 15
+    400482: Outside Door Half 16
+    400484: Outside Door Half 17
+    400486: Outside Door Half 18
+    400488: Outside Door Half 19
+    400490: Outside Door Half 2
+    400492: Outside Door Half 20
+    400494: Outside Door Half 21
+    400496: Outside Door Half 22
+    400498: Outside Door Half 23
+    400500: Outside Door Half 24
+    400502: Outside Door Half 25
+    400504: Outside Door Half 26
+    400506: Outside Door Half 3
+    400508: Outside Door Half 4
+    400510: Outside Door Half 5
+    400512: Outside Door Half 6
+    400514: Outside Door Half 7
+    400516: Outside Door Half 8
+    400518: Outside Door Half 9
+    400520: powder coated sliding glass window
+    400522: powder coated sliding glass window 1
+    400524: Right Door Hinge
+    400526: Right Door Hinge 1
+    400528: Right Door Hinge 10
+    400530: Right Door Hinge 11
+    400532: Right Door Hinge 12
+    400534: Right Door Hinge 13
+    400536: Right Door Hinge 14
+    400538: Right Door Hinge 15
+    400540: Right Door Hinge 16
+    400542: Right Door Hinge 17
+    400544: Right Door Hinge 18
+    400546: Right Door Hinge 19
+    400548: Right Door Hinge 2
+    400550: Right Door Hinge 20
+    400552: Right Door Hinge 21
+    400554: Right Door Hinge 22
+    400556: Right Door Hinge 23
+    400558: Right Door Hinge 24
+    400560: Right Door Hinge 25
+    400562: Right Door Hinge 26
+    400564: Right Door Hinge 3
+    400566: Right Door Hinge 4
+    400568: Right Door Hinge 5
+    400570: Right Door Hinge 6
+    400572: Right Door Hinge 7
+    400574: Right Door Hinge 8
+    400576: Right Door Hinge 9
+    400578: Right door hinges 3
+    400580: Right door hinges 3 1
+    400582: Right door hinges 3 2
+    400584: Right door hinges 3 3
+    400586: Right door hinges 3 4
+    400588: Right door hinges 3 5
+    400590: Right door hinges 3 6
+    400592: Right door hinges 3 7
+    400594: Right door hinges 3 8
+    400596: Right door with overlap#1
+    400598: Right door with overlap#1 1
+    400600: Right door with overlap#1 2
+    400602: Right door with overlap#1 3
+    400604: Right door with overlap#1 4
+    400606: Right door with overlap#1 5
+    400608: Right door with overlap#1 6
+    400610: Right door with overlap#1 7
+    400612: Right door with overlap#1 8
+    2300000: Complete Door Left (frm outside)
+    2300002: Complete Door Left (frm outside) 1
+    2300004: Complete Door Left (frm outside) 10
+    2300006: Complete Door Left (frm outside) 11
+    2300008: Complete Door Left (frm outside) 12
+    2300010: Complete Door Left (frm outside) 13
+    2300012: Complete Door Left (frm outside) 14
+    2300014: Complete Door Left (frm outside) 15
+    2300016: Complete Door Left (frm outside) 16
+    2300018: Complete Door Left (frm outside) 17
+    2300020: Complete Door Left (frm outside) 18
+    2300022: Complete Door Left (frm outside) 19
+    2300024: Complete Door Left (frm outside) 2
+    2300026: Complete Door Left (frm outside) 20
+    2300028: Complete Door Left (frm outside) 21
+    2300030: Complete Door Left (frm outside) 22
+    2300032: Complete Door Left (frm outside) 23
+    2300034: Complete Door Left (frm outside) 24
+    2300036: Complete Door Left (frm outside) 25
+    2300038: Complete Door Left (frm outside) 26
+    2300040: Complete Door Left (frm outside) 3
+    2300042: Complete Door Left (frm outside) 4
+    2300044: Complete Door Left (frm outside) 5
+    2300046: Complete Door Left (frm outside) 6
+    2300048: Complete Door Left (frm outside) 7
+    2300050: Complete Door Left (frm outside) 8
+    2300052: Complete Door Left (frm outside) 9
+    2300054: Door Inside#1
+    2300056: Door Inside#1 1
+    2300058: Door Inside#1 10
+    2300060: Door Inside#1 11
+    2300062: Door Inside#1 12
+    2300064: Door Inside#1 13
+    2300066: Door Inside#1 14
+    2300068: Door Inside#1 15
+    2300070: Door Inside#1 16
+    2300072: Door Inside#1 17
+    2300074: Door Inside#1 18
+    2300076: Door Inside#1 19
+    2300078: Door Inside#1 2
+    2300080: Door Inside#1 20
+    2300082: Door Inside#1 21
+    2300084: Door Inside#1 22
+    2300086: Door Inside#1 23
+    2300088: Door Inside#1 24
+    2300090: Door Inside#1 25
+    2300092: Door Inside#1 26
+    2300094: Door Inside#1 3
+    2300096: Door Inside#1 4
+    2300098: Door Inside#1 5
+    2300100: Door Inside#1 6
+    2300102: Door Inside#1 7
+    2300104: Door Inside#1 8
+    2300106: Door Inside#1 9
+    2300108: door2.dxf
+    2300110: Group 102
+    2300112: Group 104
+    2300114: Group 11
+    2300116: Group 13
+    2300118: Group 133
+    2300120: Group 135
+    2300122: Group 154
+    2300124: Group 156
+    2300126: Group 163
+    2300128: Group 165
+    2300130: Group 194
+    2300132: Group 196
+    2300134: Group 215
+    2300136: Group 217
+    2300138: Group 224
+    2300140: Group 226
+    2300142: Group 255
+    2300144: Group 257
+    2300146: Group 276
+    2300148: Group 278
+    2300150: Group 285
+    2300152: Group 287
+    2300154: Group 316
+    2300156: Group 318
+    2300158: Group 32
+    2300160: Group 337
+    2300162: Group 339
+    2300164: Group 34
+    2300166: Group 346
+    2300168: Group 348
+    2300170: Group 377
+    2300172: Group 379
+    2300174: Group 398
+    2300176: Group 400
+    2300178: Group 407
+    2300180: Group 409
+    2300182: Group 41
+    2300184: Group 43
+    2300186: Group 438
+    2300188: Group 440
+    2300190: Group 459
+    2300192: Group 461
+    2300194: Group 468
+    2300196: Group 470
+    2300198: Group 499
+    2300200: Group 501
+    2300202: Group 520
+    2300204: Group 522
+    2300206: Group 529
+    2300208: Group 531
+    2300210: Group 555
+    2300212: Group 557
+    2300214: Group 72
+    2300216: Group 74
+    2300218: Group 93
+    2300220: Group 95
+    2300222: Inside Door Frame#1
+    2300224: Inside Door Frame#1 1
+    2300226: Inside Door Frame#1 10
+    2300228: Inside Door Frame#1 11
+    2300230: Inside Door Frame#1 12
+    2300232: Inside Door Frame#1 13
+    2300234: Inside Door Frame#1 14
+    2300236: Inside Door Frame#1 15
+    2300238: Inside Door Frame#1 16
+    2300240: Inside Door Frame#1 17
+    2300242: Inside Door Frame#1 2
+    2300244: Inside Door Frame#1 3
+    2300246: Inside Door Frame#1 4
+    2300248: Inside Door Frame#1 5
+    2300250: Inside Door Frame#1 6
+    2300252: Inside Door Frame#1 7
+    2300254: Inside Door Frame#1 8
+    2300256: Inside Door Frame#1 9
+    2300258: kixx27
+    2300260: kixx27 1
+    2300262: Left Door Hinge
+    2300264: Left Door Hinge 1
+    2300266: Left Door Hinge 10
+    2300268: Left Door Hinge 11
+    2300270: Left Door Hinge 12
+    2300272: Left Door Hinge 13
+    2300274: Left Door Hinge 14
+    2300276: Left Door Hinge 15
+    2300278: Left Door Hinge 16
+    2300280: Left Door Hinge 17
+    2300282: Left Door Hinge 18
+    2300284: Left Door Hinge 19
+    2300286: Left Door Hinge 2
+    2300288: Left Door Hinge 20
+    2300290: Left Door Hinge 21
+    2300292: Left Door Hinge 22
+    2300294: Left Door Hinge 23
+    2300296: Left Door Hinge 24
+    2300298: Left Door Hinge 25
+    2300300: Left Door Hinge 26
+    2300302: Left Door Hinge 27
+    2300304: Left Door Hinge 28
+    2300306: Left Door Hinge 29
+    2300308: Left Door Hinge 3
+    2300310: Left Door Hinge 30
+    2300312: Left Door Hinge 31
+    2300314: Left Door Hinge 32
+    2300316: Left Door Hinge 33
+    2300318: Left Door Hinge 34
+    2300320: Left Door Hinge 35
+    2300322: Left Door Hinge 4
+    2300324: Left Door Hinge 5
+    2300326: Left Door Hinge 6
+    2300328: Left Door Hinge 7
+    2300330: Left Door Hinge 8
+    2300332: Left Door Hinge 9
+    2300334: //RootNode
+    2300336: Mullions#1
+    2300338: Mullions#1 1
+    2300340: Mullions#1 10
+    2300342: Mullions#1 11
+    2300344: Mullions#1 12
+    2300346: Mullions#1 13
+    2300348: Mullions#1 14
+    2300350: Mullions#1 15
+    2300352: Mullions#1 16
+    2300354: Mullions#1 17
+    2300356: Mullions#1 18
+    2300358: Mullions#1 19
+    2300360: Mullions#1 2
+    2300362: Mullions#1 20
+    2300364: Mullions#1 21
+    2300366: Mullions#1 22
+    2300368: Mullions#1 23
+    2300370: Mullions#1 24
+    2300372: Mullions#1 25
+    2300374: Mullions#1 26
+    2300376: Mullions#1 3
+    2300378: Mullions#1 4
+    2300380: Mullions#1 5
+    2300382: Mullions#1 6
+    2300384: Mullions#1 7
+    2300386: Mullions#1 8
+    2300388: Mullions#1 9
+    2300390: Outside Door Half
+    2300392: Outside Door Half 1
+    2300394: Outside Door Half 10
+    2300396: Outside Door Half 11
+    2300398: Outside Door Half 12
+    2300400: Outside Door Half 13
+    2300402: Outside Door Half 14
+    2300404: Outside Door Half 15
+    2300406: Outside Door Half 16
+    2300408: Outside Door Half 17
+    2300410: Outside Door Half 18
+    2300412: Outside Door Half 19
+    2300414: Outside Door Half 2
+    2300416: Outside Door Half 20
+    2300418: Outside Door Half 21
+    2300420: Outside Door Half 22
+    2300422: Outside Door Half 23
+    2300424: Outside Door Half 24
+    2300426: Outside Door Half 25
+    2300428: Outside Door Half 26
+    2300430: Outside Door Half 3
+    2300432: Outside Door Half 4
+    2300434: Outside Door Half 5
+    2300436: Outside Door Half 6
+    2300438: Outside Door Half 7
+    2300440: Outside Door Half 8
+    2300442: Outside Door Half 9
+    2300444: powder coated sliding glass window
+    2300446: powder coated sliding glass window 1
+    2300448: Right Door Hinge
+    2300450: Right Door Hinge 1
+    2300452: Right Door Hinge 10
+    2300454: Right Door Hinge 11
+    2300456: Right Door Hinge 12
+    2300458: Right Door Hinge 13
+    2300460: Right Door Hinge 14
+    2300462: Right Door Hinge 15
+    2300464: Right Door Hinge 16
+    2300466: Right Door Hinge 17
+    2300468: Right Door Hinge 18
+    2300470: Right Door Hinge 19
+    2300472: Right Door Hinge 2
+    2300474: Right Door Hinge 20
+    2300476: Right Door Hinge 21
+    2300478: Right Door Hinge 22
+    2300480: Right Door Hinge 23
+    2300482: Right Door Hinge 24
+    2300484: Right Door Hinge 25
+    2300486: Right Door Hinge 26
+    2300488: Right Door Hinge 3
+    2300490: Right Door Hinge 4
+    2300492: Right Door Hinge 5
+    2300494: Right Door Hinge 6
+    2300496: Right Door Hinge 7
+    2300498: Right Door Hinge 8
+    2300500: Right Door Hinge 9
+    2300502: Right door with overlap#1
+    2300504: Right door with overlap#1 1
+    2300506: Right door with overlap#1 2
+    2300508: Right door with overlap#1 3
+    2300510: Right door with overlap#1 4
+    2300512: Right door with overlap#1 5
+    2300514: Right door with overlap#1 6
+    2300516: Right door with overlap#1 7
+    2300518: Right door with overlap#1 8
+    3300000: Complete Door Left (frm outside)
+    3300002: Complete Door Left (frm outside) 1
+    3300004: Complete Door Left (frm outside) 10
+    3300006: Complete Door Left (frm outside) 11
+    3300008: Complete Door Left (frm outside) 12
+    3300010: Complete Door Left (frm outside) 13
+    3300012: Complete Door Left (frm outside) 14
+    3300014: Complete Door Left (frm outside) 15
+    3300016: Complete Door Left (frm outside) 16
+    3300018: Complete Door Left (frm outside) 17
+    3300020: Complete Door Left (frm outside) 18
+    3300022: Complete Door Left (frm outside) 19
+    3300024: Complete Door Left (frm outside) 2
+    3300026: Complete Door Left (frm outside) 20
+    3300028: Complete Door Left (frm outside) 21
+    3300030: Complete Door Left (frm outside) 22
+    3300032: Complete Door Left (frm outside) 23
+    3300034: Complete Door Left (frm outside) 24
+    3300036: Complete Door Left (frm outside) 25
+    3300038: Complete Door Left (frm outside) 26
+    3300040: Complete Door Left (frm outside) 3
+    3300042: Complete Door Left (frm outside) 4
+    3300044: Complete Door Left (frm outside) 5
+    3300046: Complete Door Left (frm outside) 6
+    3300048: Complete Door Left (frm outside) 7
+    3300050: Complete Door Left (frm outside) 8
+    3300052: Complete Door Left (frm outside) 9
+    3300054: Door Inside#1
+    3300056: Door Inside#1 1
+    3300058: Door Inside#1 10
+    3300060: Door Inside#1 11
+    3300062: Door Inside#1 12
+    3300064: Door Inside#1 13
+    3300066: Door Inside#1 14
+    3300068: Door Inside#1 15
+    3300070: Door Inside#1 16
+    3300072: Door Inside#1 17
+    3300074: Door Inside#1 18
+    3300076: Door Inside#1 19
+    3300078: Door Inside#1 2
+    3300080: Door Inside#1 20
+    3300082: Door Inside#1 21
+    3300084: Door Inside#1 22
+    3300086: Door Inside#1 23
+    3300088: Door Inside#1 24
+    3300090: Door Inside#1 25
+    3300092: Door Inside#1 26
+    3300094: Door Inside#1 3
+    3300096: Door Inside#1 4
+    3300098: Door Inside#1 5
+    3300100: Door Inside#1 6
+    3300102: Door Inside#1 7
+    3300104: Door Inside#1 8
+    3300106: Door Inside#1 9
+    3300108: door2.dxf
+    3300110: Group 102
+    3300112: Group 104
+    3300114: Group 11
+    3300116: Group 13
+    3300118: Group 133
+    3300120: Group 135
+    3300122: Group 154
+    3300124: Group 156
+    3300126: Group 163
+    3300128: Group 165
+    3300130: Group 194
+    3300132: Group 196
+    3300134: Group 215
+    3300136: Group 217
+    3300138: Group 224
+    3300140: Group 226
+    3300142: Group 255
+    3300144: Group 257
+    3300146: Group 276
+    3300148: Group 278
+    3300150: Group 285
+    3300152: Group 287
+    3300154: Group 316
+    3300156: Group 318
+    3300158: Group 32
+    3300160: Group 337
+    3300162: Group 339
+    3300164: Group 34
+    3300166: Group 346
+    3300168: Group 348
+    3300170: Group 377
+    3300172: Group 379
+    3300174: Group 398
+    3300176: Group 400
+    3300178: Group 407
+    3300180: Group 409
+    3300182: Group 41
+    3300184: Group 43
+    3300186: Group 438
+    3300188: Group 440
+    3300190: Group 459
+    3300192: Group 461
+    3300194: Group 468
+    3300196: Group 470
+    3300198: Group 499
+    3300200: Group 501
+    3300202: Group 520
+    3300204: Group 522
+    3300206: Group 529
+    3300208: Group 531
+    3300210: Group 555
+    3300212: Group 557
+    3300214: Group 72
+    3300216: Group 74
+    3300218: Group 93
+    3300220: Group 95
+    3300222: Inside Door Frame#1
+    3300224: Inside Door Frame#1 1
+    3300226: Inside Door Frame#1 10
+    3300228: Inside Door Frame#1 11
+    3300230: Inside Door Frame#1 12
+    3300232: Inside Door Frame#1 13
+    3300234: Inside Door Frame#1 14
+    3300236: Inside Door Frame#1 15
+    3300238: Inside Door Frame#1 16
+    3300240: Inside Door Frame#1 17
+    3300242: Inside Door Frame#1 2
+    3300244: Inside Door Frame#1 3
+    3300246: Inside Door Frame#1 4
+    3300248: Inside Door Frame#1 5
+    3300250: Inside Door Frame#1 6
+    3300252: Inside Door Frame#1 7
+    3300254: Inside Door Frame#1 8
+    3300256: Inside Door Frame#1 9
+    3300258: kixx27
+    3300260: kixx27 1
+    3300262: Left Door Hinge
+    3300264: Left Door Hinge 1
+    3300266: Left Door Hinge 10
+    3300268: Left Door Hinge 11
+    3300270: Left Door Hinge 12
+    3300272: Left Door Hinge 13
+    3300274: Left Door Hinge 14
+    3300276: Left Door Hinge 15
+    3300278: Left Door Hinge 16
+    3300280: Left Door Hinge 17
+    3300282: Left Door Hinge 18
+    3300284: Left Door Hinge 19
+    3300286: Left Door Hinge 2
+    3300288: Left Door Hinge 20
+    3300290: Left Door Hinge 21
+    3300292: Left Door Hinge 22
+    3300294: Left Door Hinge 23
+    3300296: Left Door Hinge 24
+    3300298: Left Door Hinge 25
+    3300300: Left Door Hinge 26
+    3300302: Left Door Hinge 27
+    3300304: Left Door Hinge 28
+    3300306: Left Door Hinge 29
+    3300308: Left Door Hinge 3
+    3300310: Left Door Hinge 30
+    3300312: Left Door Hinge 31
+    3300314: Left Door Hinge 32
+    3300316: Left Door Hinge 33
+    3300318: Left Door Hinge 34
+    3300320: Left Door Hinge 35
+    3300322: Left Door Hinge 4
+    3300324: Left Door Hinge 5
+    3300326: Left Door Hinge 6
+    3300328: Left Door Hinge 7
+    3300330: Left Door Hinge 8
+    3300332: Left Door Hinge 9
+    3300334: //RootNode
+    3300336: Mullions#1
+    3300338: Mullions#1 1
+    3300340: Mullions#1 10
+    3300342: Mullions#1 11
+    3300344: Mullions#1 12
+    3300346: Mullions#1 13
+    3300348: Mullions#1 14
+    3300350: Mullions#1 15
+    3300352: Mullions#1 16
+    3300354: Mullions#1 17
+    3300356: Mullions#1 18
+    3300358: Mullions#1 19
+    3300360: Mullions#1 2
+    3300362: Mullions#1 20
+    3300364: Mullions#1 21
+    3300366: Mullions#1 22
+    3300368: Mullions#1 23
+    3300370: Mullions#1 24
+    3300372: Mullions#1 25
+    3300374: Mullions#1 26
+    3300376: Mullions#1 3
+    3300378: Mullions#1 4
+    3300380: Mullions#1 5
+    3300382: Mullions#1 6
+    3300384: Mullions#1 7
+    3300386: Mullions#1 8
+    3300388: Mullions#1 9
+    3300390: Outside Door Half
+    3300392: Outside Door Half 1
+    3300394: Outside Door Half 10
+    3300396: Outside Door Half 11
+    3300398: Outside Door Half 12
+    3300400: Outside Door Half 13
+    3300402: Outside Door Half 14
+    3300404: Outside Door Half 15
+    3300406: Outside Door Half 16
+    3300408: Outside Door Half 17
+    3300410: Outside Door Half 18
+    3300412: Outside Door Half 19
+    3300414: Outside Door Half 2
+    3300416: Outside Door Half 20
+    3300418: Outside Door Half 21
+    3300420: Outside Door Half 22
+    3300422: Outside Door Half 23
+    3300424: Outside Door Half 24
+    3300426: Outside Door Half 25
+    3300428: Outside Door Half 26
+    3300430: Outside Door Half 3
+    3300432: Outside Door Half 4
+    3300434: Outside Door Half 5
+    3300436: Outside Door Half 6
+    3300438: Outside Door Half 7
+    3300440: Outside Door Half 8
+    3300442: Outside Door Half 9
+    3300444: powder coated sliding glass window
+    3300446: powder coated sliding glass window 1
+    3300448: Right Door Hinge
+    3300450: Right Door Hinge 1
+    3300452: Right Door Hinge 10
+    3300454: Right Door Hinge 11
+    3300456: Right Door Hinge 12
+    3300458: Right Door Hinge 13
+    3300460: Right Door Hinge 14
+    3300462: Right Door Hinge 15
+    3300464: Right Door Hinge 16
+    3300466: Right Door Hinge 17
+    3300468: Right Door Hinge 18
+    3300470: Right Door Hinge 19
+    3300472: Right Door Hinge 2
+    3300474: Right Door Hinge 20
+    3300476: Right Door Hinge 21
+    3300478: Right Door Hinge 22
+    3300480: Right Door Hinge 23
+    3300482: Right Door Hinge 24
+    3300484: Right Door Hinge 25
+    3300486: Right Door Hinge 26
+    3300488: Right Door Hinge 3
+    3300490: Right Door Hinge 4
+    3300492: Right Door Hinge 5
+    3300494: Right Door Hinge 6
+    3300496: Right Door Hinge 7
+    3300498: Right Door Hinge 8
+    3300500: Right Door Hinge 9
+    3300502: Right door with overlap#1
+    3300504: Right door with overlap#1 1
+    3300506: Right door with overlap#1 2
+    3300508: Right door with overlap#1 3
+    3300510: Right door with overlap#1 4
+    3300512: Right door with overlap#1 5
+    3300514: Right door with overlap#1 6
+    3300516: Right door with overlap#1 7
+    3300518: Right door with overlap#1 8
+    4300000: Mesh manny (new) citti italia
+    4300002: Mesh Right Door Hinge
+    4300004: Mesh Group 11
+    4300006: Mesh Group 13
+    4300008: Mesh Complete Door Left (frm outside)
+    4300010: Mesh Door Inside#1
+    4300012: Mesh Mullions#1
+    4300014: Mesh Outside Door Half
+    4300016: Mesh Left Door Hinge
+    4300018: Mesh Inside Door Frame#1
+    4300020: Mesh Right door with overlap#1
+    4300022: Mesh door2.dxf
+    4300024: Mesh Group 555
+    4300026: Mesh Group 557
+    4300028: Mesh powder coated sliding glass window
+    4300030: Mesh kixx27
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
